@@ -9,7 +9,7 @@ A little about me:
     + exploring new recipes  
     + bing watching TV shows  
         + especially crime shows!  
-            + my favorite is The Blacklist!
-![](/Users/sandraaziz/Desktop/Poster.png)
+            + my favorite is The Blacklist!  
+![](https://github.com/saziz12/saziz12.github.io/assets/134177938/ab887d21-4fbb-4023-9429-6ea4370aa911)
 
 Feel free to contact me at saaziz0522@gmail.com if you have any questions/comments!
