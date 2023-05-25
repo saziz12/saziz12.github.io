@@ -8,3 +8,8 @@ A little about me:
     + reading  
     + exploring new recipes  
     + bing watching TV shows  
+        + especially crime shows!  
+            + my favorite is The Blacklist!
+![](/Users/sandraaziz/Desktop/Poster.png)
+
+Feel free to contact me at saaziz0522@gmail.com if you have any questions/comments!
