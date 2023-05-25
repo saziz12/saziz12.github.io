@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+# Welcome to my blog!!
 
-Maybe say a some things about yourself.
+My name is Sandra, and I will be using this blog for my data science class!
 
-Or maybe what you plan to blog about.
+A little about me:  
+* I am a graduate student  
+* In my free time, I like  
+    + reading  
+    + exploring new recipes  
+    + bing watching TV shows  
