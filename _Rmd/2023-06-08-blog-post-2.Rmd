@@ -1,0 +1,26 @@
+---
+title: "Programming Background"
+author: "Sandra Aziz"
+output: "github_document"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.path = "../images/")
+```
+
+## Programming Prior to ST558
+Before taking this course, I had experience with SAS and Python. Compared to SAS, I find that R's usage is more broad, and the syntax is more userfriendly. I found that learning Python is a little easier than R, but that could be due to the fact that I'm exposed to more functions in R than Python. Overall, I find the syntax of R easy to understand and learn, especially if you have a background in statistics.  
+What I like most about R is that it has a big user community. When I run into any errors, I go to google and find that many others have run into the same issue and there are multiple solutions. I also like that anyone can create a function in R, and the only thing you need to do is download it from the internet to be able to use it. The fact that there are many usages of R that I'm not aware of keeps me excited to continue exploring!  
+
+## Example R Markdown Output
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+```{r, eval=FALSE}
+rmarkdown::render("~/Library/CloudStorage/OneDrive-NorthCarolinaStateUniversity/NCSU/Summer2023/ST 558/saziz12.github.io/_Rmd/2023-06-08-blog-post-2.Rmd",
+output_format = "github_document", 
+output_dir = "../_posts/",
+output_options = list(html_preview=FALSE))
+```
