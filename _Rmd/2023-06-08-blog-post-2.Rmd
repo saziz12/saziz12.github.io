@@ -18,7 +18,7 @@ What I like most about R is that it has a big user community. When I run into an
 plot(pressure)
 ```
 
-```{r, eval=FALSE}
+```{r, eval=FALSE, echo=FALSE}
 rmarkdown::render("~/Library/CloudStorage/OneDrive-NorthCarolinaStateUniversity/NCSU/Summer2023/ST 558/saziz12.github.io/_Rmd/2023-06-08-blog-post-2.Rmd",
 output_format = "github_document", 
 output_dir = "../_posts/",
