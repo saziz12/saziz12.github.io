@@ -1,0 +1,32 @@
+Project 2 – Predictive Models and Automation
+================
+Sandra Aziz
+
+## Project 2
+
+For this project, I created the github repo page and added my partner as
+a collaborator so we could both push updates for the project. I also
+read in the data set required and did some summaries and analyses to
+have an idea of what the data we are dealing with looks like. Then, I
+wrote short introductions for the linear regression models and the
+random forests model, then did the comparison between all the models to
+figure out the best model with the lowest RMSE.  
+Overall, I found this project to be less confusing/demanding than the
+first one. One problem that I ran into at the beginning was having
+trouble pulling updates from Github. I had to figure out how to navigate
+that since it was my first time working with a collaborator on the same
+project.  
+What I learned the hard way was that the random forests model takes a
+very long time to run, especially with a large data set. A lot of the
+times I thought there was something wrong with the code because I never
+had a problem where rendering the code would be that slow. Lastly, even
+though I wasn’t directly involved with the automation process, my
+partner added code throughout the project that made the process go more
+smoothly. That taught me that although I try to make my code very
+percise, more code is not always inefficient, sometimes it makes the
+rendering process less troublesome.
+
+[View my Github Pages](https://saziz12.github.io/ST558-Project2/) : This
+includes links to all the reports.
+
+[View my Github Repo](https://github.com/saziz12/ST558-Project2.git)
