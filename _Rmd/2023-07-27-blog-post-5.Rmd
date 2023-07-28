@@ -1,0 +1,25 @@
+---
+title: "Blog Post 5"
+author: "Sandra Aziz"
+output: "github_document"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What now?
+
+After this course on R, I think it's very useful for data science. I will most likely keep using R in the future since it has many ways to manipulate and analyze data. Another thing I like about R is its community of users. I love how everyone is sharing the new uses/ways they find and is helping others do the same.  
+
+I am currently doing an internship where we use SAS to analyze clinical data, and after learning all about R in this course, I am interested to see how functions and uses translate between both languages. I found it interesting that as I was coding in SAS, the only thing I could think of was how much easier it would be to code in R instead.  
+
+I am interested to learn more about clinical development and analysis, and since pharmaceutical companies are moving towards using more open source languages like R, I'm exciting to see what new things I can learn about it in the future!  
+
+
+```{r render, echo=FALSE, eval=FALSE}
+rmarkdown::render("~/Library/CloudStorage/OneDrive-NorthCarolinaStateUniversity/NCSU/Summer2023/ST 558/saziz12.github.io2/_Rmd/2023-07-27-blog-post-5.Rmd",
+output_format = "github_document", 
+output_dir = "_posts/",
+output_options = list(html_preview=FALSE))
+```
