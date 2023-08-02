@@ -18,7 +18,7 @@ I am interested to learn more about clinical development and analysis, and since
 
 
 ```{r render, echo=FALSE, eval=FALSE}
-rmarkdown::render("~/Library/CloudStorage/OneDrive-NorthCarolinaStateUniversity/NCSU/Summer2023/ST 558/saziz12.github.io2/_Rmd/2023-07-27-blog-post-5.Rmd",
+rmarkdown::render("~/Library/CloudStorage/OneDrive-NorthCarolinaStateUniversity/NCSU/Summer2023/ST 558/saziz12.github.io.git2/_Rmd/2023-07-27-blog-post-5.Rmd",
 output_format = "github_document", 
 output_dir = "_posts/",
 output_options = list(html_preview=FALSE))
